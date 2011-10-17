@@ -1,0 +1,7 @@
+<h2>Sample code</h2>
+
+<pre class="prettyprint">
+int void main() {
+    printf "Hello world!\n";
+}
+</pre>
