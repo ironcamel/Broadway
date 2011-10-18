@@ -3,7 +3,7 @@ Why Version Control?
 </h2>
 
 <ul>
-  <li>back up of each revision/change (history)</li>
-  <li>revert to a previously good revision</li>
-  <li>concurrency</li>
+  <li>Back up of each revision/change (history)</li>
+  <li>Revert to a previously good revision</li>
+  <li>Concurrency</li>
 </ul>

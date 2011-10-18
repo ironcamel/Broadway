@@ -1,1 +1,9 @@
-<h2>Slide 10</h2>
+<h2>Creating a Git Repo</h2>
+
+	<code>
+	$ cd (project-directory)
+	$ git init
+	$ (add some files)
+	$ git add .
+	$ git commit -m 'Initial commit'
+	</code>

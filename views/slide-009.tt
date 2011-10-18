@@ -1,1 +1,10 @@
-<h2>Slide 9</h2>
+<h2>Why Git?</h2>
+
+<ul>
+  <li>Speed</li>
+  <li>Lightweight branches</li>
+  <li>Staging areas</li>
+  <li>Rebasing</li>
+  <li>Squashing</li>
+  <li>Merges that work</li>
+</ul>

@@ -1,7 +1,7 @@
 <h2>Why distributed?</h2>
 
 <ul>
-  <li>a complete copy! (no need to connect to a server)</li>
-  <li>multiple remotes (push to multiple places)</li>
-  <li>flexible workflow (central server, team branches, etc.)</li>
+  <li>A complete copy! (no need to connect to a server)</li>
+  <li>Multiple remotes (push to multiple places)</li>
+  <li>Flexible workflow (central server, team branches, etc.)</li>
 </ul>
