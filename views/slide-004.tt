@@ -1,12 +1,12 @@
-<h2>Git is Great</h2>
+<h2>
+Version Control Software
+</h2>
 
 <ul>
-<li>elegant 
-<li>expressive
-<li>Convention over Configuration
-<li>hack-and-play
-<li>extensible
-<li>Fun!
+  <li>RCS - local</li>
+  <li>CVS - local or centralized (Concurrency!)</li>
+  <li>Subversion -local or centralized (Atomic Commits!)</li>
+  <li>Git - distributed</li>
+  <li>Mercurial - distributed</li>
+  <li>Bazaar - distributed</li>
 </ul>
-
-

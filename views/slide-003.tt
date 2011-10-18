@@ -1,6 +1,12 @@
-<p>
-Git is a <br>
+<h2>
+Version Control Software
+</h2>
 
-<em>nice</em> tool for version control
-</p>
-
+<ul>
+  <li>RCS</li>
+  <li>CVS</li>
+  <li>Subversion</li>
+  <li>Git</li>
+  <li>Mercurial</li>
+  <li>Bazaar</li>
+</ul>
