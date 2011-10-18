@@ -1,1 +1,19 @@
-<h2>Slide 14</h2>
+<h2>Review history</h2>
+
+<pre class="prettyprint" style="font-size: 0.4em;">
+
+	[dan.prince@dovetail bellows]$ git log
+	commit 499ead5b0a89c7accb95a79f910210f62e616223
+	Author: Dan Prince <dan.prince@rackspace.com>
+	Date:   Thu Oct 13 14:43:56 2011 -0400
+
+		Do not hard code test suite ids and config template ids on create.
+
+	commit 1d684415129f6d84a3dd1d4222db8c23a93bd21e
+	Author: Dan Prince <dan.prince@rackspace.com>
+	Date:   Thu Oct 13 14:34:13 2011 -0400
+
+		Initial commit.
+
+
+</pre>

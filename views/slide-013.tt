@@ -1,1 +1,8 @@
-<h2>Slide 13</h2>
+<h2>Rebase a feature branch</h2>
+
+<pre class="prettyprint">
+
+	$ git checkout my_feature
+	$ git rebase -i master
+
+</pre>

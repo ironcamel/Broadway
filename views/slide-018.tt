@@ -1,1 +1,7 @@
-<h2>Slide 18</h2>
+<h2>Revert changes to a file</h2>
+
+<pre class="prettyprint">
+
+	$ git co VERSION
+
+</pre>

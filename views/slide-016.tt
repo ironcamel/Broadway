@@ -1,1 +1,18 @@
-<h2>Slide 16</h2>
+<h2>Pull changes from a remote</h2>
+
+<pre class="prettyprint">
+
+	$ git pull dprince
+
+</pre>
+
+<br/>
+<p>Or rebase w/ pull:</p>
+
+<pre class="prettyprint">
+
+	$ git pull dprince --rebase
+
+</pre>
+
+

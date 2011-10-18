@@ -1,9 +1,11 @@
 <h2>Creating a Git Repo</h2>
 
-	<code>
-	$ cd (project-directory)
+<pre class="prettyprint">
+
+	$ cd project_directory
 	$ git init
-	$ (add some files)
+	$ # add some files
 	$ git add .
 	$ git commit -m 'Initial commit'
-	</code>
+
+</pre>

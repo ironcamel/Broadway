@@ -1,9 +1,9 @@
-<h2>Branching</h2>
+<h2>Checkout a Branch</h2>
 
-	<code>
-	$ cd (project-directory)
-	$ git init
-	$ (add some files)
-	$ git add .
-	$ git commit -m 'Initial commit'
-	</code>
+<pre class="prettyprint">
+
+	$ cd project_directory
+	$ git checkout -b my_feature
+	$ # add files, commit, test
+
+</pre>

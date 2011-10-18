@@ -1,1 +1,15 @@
-<h2>Slide 17</h2>
+<h2>Show status project</h2>
+
+<pre class="prettyprint" style="font-size: 0.5em;">
+
+	$ git status
+	# On branch master
+	# Changes not staged for commit:
+	#   (use "git add <file>..." to update what will be committed)
+	#   (use "git checkout -- <file>..." to discard changes in working directory)
+	#
+	#	modified:   VERSION
+	#
+	no changes added to commit (use "git add" and/or "git commit -a")
+
+</pre>

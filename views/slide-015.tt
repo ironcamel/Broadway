@@ -1,1 +1,8 @@
-<h2>Slide 15</h2>
+<h2>Adding a remote</h2>
+
+<pre class="prettyprint" style="font-size: 0.5em;">
+
+	$ git remote add dprince git://github.com/dprince/bellows.git
+	$ git push dprince master
+
+</pre>

@@ -1,1 +1,9 @@
-<h2>Slide 12</h2>
+<h2>Merge a feature</h2>
+
+<pre class="prettyprint">
+
+	$ cd project_directory
+	$ git checkout master
+	$ git merge my_feature
+
+</pre>
