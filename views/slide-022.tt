@@ -1,4 +1,4 @@
 <h1>GitHub</h1>
-<div style="background-color:#FFF;">
-  <img src="images/octocat.png"/>
+<div style="background-color:#FFF; width:50%; margin: 0 auto;">
+  <img src="images/octocat.png" style="height:300px;"/>
 </div>
